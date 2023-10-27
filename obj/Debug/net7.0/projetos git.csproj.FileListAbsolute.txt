@@ -1,0 +1,18 @@
+C:\Users\aana2\OneDrive\projetos git\obj\Debug\net7.0\projetos git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aana2\OneDrive\projetos git\obj\Debug\net7.0\projetos git.AssemblyInfoInputs.cache
+C:\Users\aana2\OneDrive\projetos git\obj\Debug\net7.0\projetos git.AssemblyInfo.cs
+C:\Users\aana2\OneDrive\projetos git\obj\Debug\net7.0\projetos git.csproj.CoreCompileInputs.cache
+C:\Users\aana2\OneDrive\projetosgit\obj\Debug\net7.0\projetos git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aana2\OneDrive\projetosgit\obj\Debug\net7.0\projetos git.AssemblyInfoInputs.cache
+C:\Users\aana2\OneDrive\projetosgit\obj\Debug\net7.0\projetos git.AssemblyInfo.cs
+C:\Users\aana2\OneDrive\projetosgit\obj\Debug\net7.0\projetos git.csproj.CoreCompileInputs.cache
+C:\Users\aana2\OneDrive\projetosgit\bin\Debug\net7.0\projetos git.exe
+C:\Users\aana2\OneDrive\projetosgit\bin\Debug\net7.0\projetos git.deps.json
+C:\Users\aana2\OneDrive\projetosgit\bin\Debug\net7.0\projetos git.runtimeconfig.json
+C:\Users\aana2\OneDrive\projetosgit\bin\Debug\net7.0\projetos git.dll
+C:\Users\aana2\OneDrive\projetosgit\bin\Debug\net7.0\projetos git.pdb
+C:\Users\aana2\OneDrive\projetosgit\obj\Debug\net7.0\projetos git.dll
+C:\Users\aana2\OneDrive\projetosgit\obj\Debug\net7.0\refint\projetos git.dll
+C:\Users\aana2\OneDrive\projetosgit\obj\Debug\net7.0\projetos git.pdb
+C:\Users\aana2\OneDrive\projetosgit\obj\Debug\net7.0\projetos git.genruntimeconfig.cache
+C:\Users\aana2\OneDrive\projetosgit\obj\Debug\net7.0\ref\projetos git.dll
